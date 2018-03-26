@@ -103,7 +103,7 @@
   <project path="system/sepolicy" name="system_sepolicy" groups="pdk" remote="meta" />
   <project path="system/update_engine" name="system_update_engine" groups="pdk" remote="gzosp" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="gzosp" />
-  <project path="vendor/meta" name="vendor_meta" remote="meta" />
+  <project path="vendor/meta" name="vendor_meta" remote="meta" >
     <linkfile src="ota_conf" dest="ota_conf" />
   </project>
 
