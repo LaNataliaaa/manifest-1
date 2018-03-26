@@ -8,7 +8,7 @@
            fetch="https://github.com/GZOSP" />
 
   <remote  name="meta"
-           fetch="https://github.com/Meta-ROM"
+           fetch="https://github.com/Romproject"
            revision="oreo-mr1" />
  
   <default revision="8.1"
