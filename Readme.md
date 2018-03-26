@@ -6,7 +6,7 @@ Syncing Source
 --------------
 To initialise local Meta-ROM repositories in your machine:
 
-    repo init -u git://github.com/Romproject/manifest.git -b oreo-mr1
+    repo init -u git://github.com/Romproject/manifest.git -b O-mr1
 
 Then to sync up:
 
